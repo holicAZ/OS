@@ -35,8 +35,7 @@ int main(void) {
 		for (int i = 0; i < cnt; i++)
 			out << " ";
 		out << a.second.second << "\n";
-	}
-	
+	} 
 	int point = 0;
 	while (point!=same.size()) {
 		int ans = count(same.begin(), same.end(), same[0 + point]);
