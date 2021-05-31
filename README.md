@@ -22,8 +22,9 @@
 => 선점형
 <br>
 
-<strong> OS 스케줄링 RR <br></strong>
-=> 타임슬라이스를 부여, 나눠서 실행하는 알고리즘 <br>
+<strong> OS 스케줄링 SRTF <br></strong>
+=> SJF 방식에서 선점방식을 채택한 방법 <br>
+=> 짧은 CPU Burst를 가진 프로세스가 선점 <br>
 => 선점형
 <br>
 
